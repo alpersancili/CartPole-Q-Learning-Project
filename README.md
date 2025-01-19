@@ -68,8 +68,10 @@ The average rewards over the last 100 episodes are plotted to visualize the agen
 
 PROJECT STRUCTURE
 
-cartpole_qlearning.py: The main script containing the implementation of the Q-Learning algorithm.
+cartpole_q.py: The main script containing the implementation of the Q-Learning algorithm.
+
 cartpole.pkl: The saved Q-table generated after training (optional).
+
 cartpole.png: A plot of average rewards over episodes (generated after training).
 
 https://github.com/user-attachments/assets/129747f8-cc0c-4d4f-b568-a579f025e9f9
